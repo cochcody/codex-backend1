@@ -1,0 +1,14 @@
+{
+    "Kings Castle": {
+        "version": "1.0",
+        "download": "/public/games/KingsCastle.zip"
+    },
+    "Example Game": {
+        "version": "1.0",
+        "download": "/public/games/ExampleGame.zip"
+    },
+    "Space Runner": {
+        "version": "1.0",
+        "download": "/public/games/SpaceRunner.zip"
+    }
+}
