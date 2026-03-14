@@ -1,0 +1,18 @@
+{
+    "purchases": [
+        {
+            "email": "test@test.com",
+            "games": [
+                "Example Game"
+            ],
+            "timestamp": 1773370718
+        },
+        {
+            "email": "test@test.com",
+            "games": [
+                "Kings Castle"
+            ],
+            "timestamp": 1773373237
+        }
+    ]
+}

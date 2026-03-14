@@ -1,0 +1,22 @@
+{
+    "games": [
+        {
+            "name": "Example Game",
+            "price": 9.99,
+            "folder": "ExampleGame",
+            "download": "/public/games/ExampleGame.zip"
+        },
+        {
+            "name": "Space Runner",
+            "price": 4.99,
+            "folder": "SpaceRunner",
+            "download": "/public/games/SpaceRunner.zip"
+        },
+        {
+            "name": "Kings Castle",
+            "price": 0.0,
+            "folder": "KingsCastle",
+            "download": "/public/games/KingsCastle.zip"
+        }
+    ]
+}
